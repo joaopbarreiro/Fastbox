@@ -4,3 +4,9 @@ O presente projeto tem como objetivo expandir o projeto FastBox, iniciado no mó
 ## Instrução de utilização:
 Compilar o código na ferramenta VSCode com a linguagem Java.
 
+
+
+RA: 25002087    NOME: Gabriel Barbosa Correa
+RA: 25000952    NOME: João Pedro Barreiro 
+RA: 25000918    NOME: Leonardo Monteiro Benatti
+RA: 25001673    NOME: Thiago Antônio Luiz
