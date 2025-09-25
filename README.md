@@ -6,7 +6,7 @@ Compilar o código na ferramenta VSCode com a linguagem Java.
 
 
 
-RA: 25002087    NOME: Gabriel Barbosa Correa
-RA: 25000952    NOME: João Pedro Barreiro 
-RA: 25000918    NOME: Leonardo Monteiro Benatti
-RA: 25001673    NOME: Thiago Antônio Luiz
+RA: 25002087  Gabriel Barbosa Correa ||
+RA: 25000952  João Pedro Barreiro ||
+RA: 25000918  Leonardo Monteiro Benatti ||
+RA: 25001673  Thiago Antônio Luiz ||
